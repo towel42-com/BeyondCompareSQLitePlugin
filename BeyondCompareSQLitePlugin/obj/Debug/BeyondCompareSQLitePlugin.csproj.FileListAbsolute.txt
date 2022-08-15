@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\BeyondCompareSQLitePlugin\BeyondCompareSQLitePlugin\bin\Debug\BeyondCompareSQLitePlugin.exe.config
